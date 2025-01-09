@@ -1,6 +1,6 @@
 # Prettier and ESLint Angular Setup Example
 
-This repository contains a sample Angular project demonstrating how to integrate **Prettier** and **ESLint** for code formatting and linting, with auto-save functionality configured in Visual Studio Code. The project is designed as a practical example to accompany the blog post ["Setting Up Prettier and ESLint in Your Angular Project (With Auto-Save)"](link-to-your-blog).
+This repository contains a sample Angular project demonstrating how to integrate **Prettier** and **ESLint** for code formatting and linting, with auto-save functionality configured in Visual Studio Code. The project is designed as a practical example to accompany the blog post ["Setting Up Prettier and ESLint in Your Angular Project (With Auto-Save)"]([link-to-your-blog](https://robododd.com/setting-up-prettier-and-eslint-in-your-angular-project/)).
 
 ## Features
 
