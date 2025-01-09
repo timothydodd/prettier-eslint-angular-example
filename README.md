@@ -1,59 +1,32 @@
-# Test3
+# Prettier and ESLint Angular Setup Example
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
+This repository contains a sample Angular project demonstrating how to integrate **Prettier** and **ESLint** for code formatting and linting, with auto-save functionality configured in Visual Studio Code. The project is designed as a practical example to accompany the blog post ["Setting Up Prettier and ESLint in Your Angular Project (With Auto-Save)"](link-to-your-blog).
 
-## Development server
+## Features
 
-To start a local development server, run:
+- **Prettier**: Enforces consistent code formatting.
+- **ESLint**: Identifies and fixes common issues in JavaScript/TypeScript.
+- **VS Code Configuration**: Auto-save functionality with Prettier and ESLint integration.
+- Example configuration files for `.eslintrc.json`, `.prettierrc`, and `.prettierignore`.
 
-```bash
-ng serve
-```
+## Getting Started
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+### Prerequisites
 
-## Code scaffolding
+Ensure the following are installed on your machine:
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+- [Node.js](https://nodejs.org/) (version 14 or higher recommended)
+- [Angular CLI](https://angular.io/cli)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
-```bash
-ng generate component component-name
-```
+### Installation
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/prettier-eslint-angular-example.git
+   cd prettier-eslint-angular-example
+   ```
+2. Install dependencies:
+   ```bash
+   npm start
+   ```
