@@ -28,5 +28,7 @@ Ensure the following are installed on your machine:
    ```
 2. Install dependencies:
    ```bash
-   npm start
+   npm install
    ```
+
+Start editing code
