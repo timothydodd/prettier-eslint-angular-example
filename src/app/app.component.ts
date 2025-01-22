@@ -9,5 +9,10 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'test3';
+
   test = 'test';
+
+  constructor() {
+    console.log('Hello, test3');
+  }
 }
